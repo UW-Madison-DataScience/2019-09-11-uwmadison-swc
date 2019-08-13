@@ -6,7 +6,7 @@ venue: "Software Carpentry @ UW-Madison"        # brief name of host site withou
 address: "BioCommons 110A/B, Steenbock Memorial Library, 550 Babcock Drive, Madison, WI 53715"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "us"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
-latlng: "FIXME"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
+latlng: "43.076090,-89.413380"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
 humandate: "September 11, 18, 25, October 2 & 9, 2019"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "1:00 p.m. - 4:30 p.m."    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2019-09-11      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
@@ -15,7 +15,7 @@ instructor: ["Tobin Magle", "Lauren Michael", "Sarah Stevens", "Matt Stone"] # b
 helper: ["Trisha Adamus", "David Hoese", "Tobin Magle", "Steve Meyer", "Lauren Michael", "Baptiste Mouginot", "Matt Stone" ]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["contact@datascience.wisc.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: https://pad.carpentries.org/2019-09-11-uwmadison-swc # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
-eventbrite: 68173359353           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
+eventbrite: "68173359353"           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
